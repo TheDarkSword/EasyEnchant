@@ -1,0 +1,6 @@
+name: EasyEnchant
+version: 1.0
+author: TheDarkSword01
+main: it.mineblock.easyenchant.Main
+depend: [MBCore]
+description: Just an EasyEnchant plugin

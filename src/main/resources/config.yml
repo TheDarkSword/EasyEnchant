@@ -1,0 +1,78 @@
+messages:
+  enchantment-disabled: "&cEnchantment &e{enchantment} &cis disabled!"
+  enchantment-not-safe: "&cYou can't enchant item &e{item} &cwith enchant &e{enchantment}"
+
+enchantments:
+  #Protection
+  PROTECTION_ENVIRONMENTAL:
+      enabled: true
+  PROTECTION_FIRE:
+      enabled: true
+  PROTECTION_FALL:
+      enabled: true
+  PROTECTION_EXPLOSIONS:
+      enabled: true
+  PROTECTION_PROJECTILE:
+      enabled: true
+  #Respiration
+  OXYGEN:
+      enabled: true
+  #Aqua Affinity
+  WATER_WORKER:
+      enabled: true
+  MENDING:
+      enabled: true
+  THORNS:
+      enabled: true
+  VANISHING_CURSE:
+      enabled: true
+  DEPTH_STRIDER:
+      enabled: true
+  FROST_WALKER:
+      enabled: true
+  BINDING_CURSE:
+      enabled: true
+  #Sharpness
+  DAMAGE_ALL:
+      enabled: true
+  #Smite
+  DAMAGE_UNDEAD:
+      enabled: true
+  #Bane of Arthropods
+  DAMAGE_ARTHROPODS:
+      enabled: true
+  KNOCKBACK:
+      enabled: true
+  FIRE_ASPECT:
+      enabled: true
+  #Looting
+  LOOT_BONUS_MOBS:
+      enabled: true
+  SWEEPING_EDGE:
+      enabled: true
+  #Efficiency
+  DIG_SPEED:
+      enabled: true
+  SILK_TOUCH:
+      enabled: true
+  #Unbreaking
+  DURABILITY:
+      enabled: true
+  #Fortune
+  LOOT_BONUS_BLOCKS:
+      enabled: true
+  #Power
+  ARROW_DAMAGE:
+      enabled: true
+  #Punch
+  ARROW_KNOCKBACK:
+      enabled: true
+  ARROW_FIRE:
+      enabled: true
+  ARROW_INFINITE:
+      enabled: true
+  #Luck of the Sea
+  LUCK:
+      enabled: true
+  LURE:
+      enabled: true
